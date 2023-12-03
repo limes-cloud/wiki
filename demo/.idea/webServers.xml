@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="df45dad6-2008-46c3-959a-ccb7d99aaa89" name="ftp" url="http://lime.bcc-szth.baidu.com">
+        <fileTransfer rootFolder="/home/work/project" host="lime.bcc-szth.baidu.com" port="8021">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
